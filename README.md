@@ -1,5 +1,6 @@
 <<<<<<< HEAD
+
 Updated version
 =======
-My first README.md Git updated
->>>>>>> cb03bb7cc777363fd3372f937b76a9d9a579361b
+My first README.md_updated
+>>>>>>> 1b4317b0db0e424a8252b0afe112d9c3d88778f6
